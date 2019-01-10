@@ -1,0 +1,29 @@
+#
+# configuration.txt
+#
+# - set the time periods for the experiments
+#
+# Peter Turney
+# April 4, 2018
+#
+# - define at least four time periods
+#
+# <period name> <begin> <end>
+#
+A 1795 1805
+B 1845 1855
+C 1895 1905
+D 1945 1955
+E 1995 2005
+#
+# - define training and testing groups
+#
+# <file name>  <period 1 name> <period 2 name> <period 3 name>
+#
+# [train/test] [past]          [present]       [future]
+#
+train1 A B C
+test1  B C D
+train2 B C D
+test2  C D E
+#
