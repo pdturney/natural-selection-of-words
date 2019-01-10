@@ -12,10 +12,10 @@ in the algorithm.
 
 Here is a brief description of the subdirectories in this folder:
 
-catvar:        - Categorial Variations 2.1
-google-ngrams: - Google Ngram files for unigrams (single words)
-perl-code:     - the Perl code that runs the experiments
-perl-output:   - the output text files of the Perl code
+- catvar: Categorial Variations 2.1
+- google-ngrams: Google Ngram files for unigrams (single words)
+- perl-code: the Perl code that runs the experiments
+- perl-output: the output text files of the Perl code
 
 Here are the steps required to install the files and tools. 
 The code was written for Windows 10, but it should also work with 
