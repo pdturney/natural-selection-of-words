@@ -10,7 +10,7 @@ See the paper The Natural Selection of Words: Finding the
 Features of Fitness for a detailed description of the steps
 in the algorithm.
 
-Here is a brief description of the subdirectories in this folder:
+Here is a brief description of the subdirectories in this project:
 
 - /catvar/ -- Categorial Variations 2.1
 - /google-ngrams/ -- Google Ngram files for unigrams (single words)
