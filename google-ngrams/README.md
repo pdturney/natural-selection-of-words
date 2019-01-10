@@ -6,7 +6,7 @@ The Google Books Ngram Viewer Dataset Version 2 (July 2012) is here:
 
 http://storage.googleapis.com/books/ngrams/books/datasetsv2.html
 
-Download the following 26 files of unigrams (24 Gigabytes):
+Download the following 26 files of unigrams (English Version 20120701, 24 Gigabytes):
 
 - googlebooks-eng-all-1gram-20120701-a
 - googlebooks-eng-all-1gram-20120701-b
