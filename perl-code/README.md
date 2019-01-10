@@ -2,7 +2,7 @@
 README - Peter Turney, January 10, 2019
 ---------------------------------------
 
-Create the following four directories:
+Create the following four directories, all in the same parent directory:
 
 - /catvar/
 - /google-ngrams/
