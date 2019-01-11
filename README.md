@@ -57,7 +57,7 @@ Linux and MacOS with some minor modifications.
 (6) Install Categorial Variations 2.1
 
 - https://clipdemos.umiacs.umd.edu/catvar/
-- read the file "README-PDT.txt" in the directory /catvar/
+- read the README in the directory /catvar/
 - download the required CatVar files and put them in /catvar/
 - go to the directory /perl-code/ and run the Perl script "wordnet-catvar.pl"
 - in Windows, use the command "perl wordnet-catvar.pl"
@@ -65,7 +65,7 @@ Linux and MacOS with some minor modifications.
 (7) Install Google Ngram files
 
 - http://storage.googleapis.com/books/ngrams/books/datasetsv2.html
-- read the file "README-PDT.txt" in the directory /google-ngrams/
+- read the README in the directory /google-ngrams/
 - download the required files and put them in /google-ngrams/
 
 (8) Run the Perl scripts
